@@ -1,0 +1,36 @@
+body {
+  background-image: url(pexels-aleksandar-pasaric-1323712.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(0, 0, 0);
+  padding: 10px;
+  margin: -10px;
+}
+.l1 {
+  color: rgb(255, 255, 255);
+}
+.l2 {
+  color: rgb(255, 255, 255);
+}
+.l3 {
+  color: rgb(255, 255, 255);
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+.s1 {
+  display: flex;
+  justify-content: left;
+}
+pre {
+  font-size: 20px;
+}
